@@ -1,0 +1,68 @@
+{
+	"Home":{
+		"Nama"	: "Andi Valerian WIbowo",
+		"NIM"	: "1303170093",
+		"Kelas"	: "IT-41-03",
+	},
+	"About":{
+		"Nama saya Andi Valerian Wibowo, biasa dipanggil Andi. Saya tinggal di Jakarta Timur, saya memiliki dua orang saudara laki-laki dan seorang saudara kembar"
+	},
+}
+{
+	"Hobbies":[
+		{
+			"1"	: "Main games"
+		},
+		{
+			"2"	: "Nonton"
+		},
+		{
+			"3"	: "Tidur"
+		}
+	]
+}
+{
+	"Skills":[
+		{
+			"1" : "Bermain games"
+		},
+		{
+			"2" : "Bahasa inggris"
+		},
+		{
+			"3"	: "MS Office"
+		}
+	]
+}
+{
+	"Education":[
+		{
+			"TK"	: "TK Bentara, Jakarta Timur"
+		},
+		{
+			"SD"	: "SDN Cipinang 03 pagi, Jakarta Timur"
+		},
+		{
+			"SMP"	: "SMP Muhammadiyah 31, Jakarta Timur"
+		},
+		{
+			"SMA"	: "SMA Muhammadiyah 11, Jakarta Timur"
+		},
+		{
+			"Kuliah": "Telkom University"
+		},
+	]
+}
+{
+	"Experience":[
+		{
+			"1"	: "Lomba games Online"
+		},
+		{
+			"2" : "Membuat aplikasi dari java"
+		},
+		{
+			"3" : "Membuat aplikasi dari C++"
+		}
+	]
+}
